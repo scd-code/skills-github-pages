@@ -1,4 +1,8 @@
-theme: minima
+remote_theme: brolun/jekyll-theme-monty
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 title: scd-code's personal blog
 description: This is where I dump my pressing thoughts
 author: scd-code
